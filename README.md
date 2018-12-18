@@ -1,5 +1,6 @@
 ## ./configure.py
-This is a nice script to ensure that every module is installed 
+This is a nice script to ensure that every module is installed
+
 just add a .json file file with the format...
 ```
   {
