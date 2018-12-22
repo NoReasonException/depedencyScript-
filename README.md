@@ -4,8 +4,8 @@ This is a nice script to ensure that every module is installed
 just add a .json file file with the format...
 ```
   {
-    "moduleName1":"command to install in case of non exist1",
-    "moduleName2":"command to install in case of non exists2",
+    "moduleName_1":"command to install in case of non exist_1",
+    "moduleName_2":"command to install in case of non exist_2",
          ...
          ...
   }
